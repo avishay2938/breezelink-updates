@@ -1,0 +1,11 @@
+{
+ "fw_id": "xiao_esp32c3",
+ "version": "1.13.1",
+ "size": 1656896,
+ "sha256": "772bede86aa70b21cc233ac8b6c54790e6bdf309a3f470440d9c06b7ed7a0867",
+ "sig": "304402203f85aa7b1b25cdeaec62827bea971454422bdd9d6e816904c749f576f2cd044702200eabe6a365cf5ac39ec4c1de504517a243969da1c96e963f60d6fdbbe53017a9",
+ "url": "bin/madoka-xiao_esp32c3-1.13.1.bin",
+ "rollout": 100,
+ "notes": "Simpler automations, smaller firmware, update fallback via GitHub, phone renames keep their links, clock check, fewer notification types, and fixes.",
+ "notes_sig": "304502210084f60e7a49985f3f8b7182b298b1446674d4cf0c53f728094cda860be72ab8f102205481760d40d7dc272cfe1d9d5166d9279ef08567c60db1bd818fd17e8923c900"
+}

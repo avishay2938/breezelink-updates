@@ -1,0 +1,10 @@
+{
+ "fw_id": "supermini_esp32c3",
+ "version": "1.10.2",
+ "size": 1752512,
+ "sha256": "f9db6e7754224343d9332113a69b0f678b8a77c943482c15f023e070fe553de2",
+ "sig": "3046022100dced24e45afdc8e0265746edc69826f7beee743eed75238f711d95392f7e1023022100891a6fe17092ca3c213fccf41b90eac9e3f4b18fe5be3dfadf617acc7dae9c77",
+ "url": "bin/madoka-supermini_esp32c3-1.10.2.bin",
+ "rollout": 100,
+ "notes": ""
+}

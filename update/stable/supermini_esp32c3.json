@@ -1,0 +1,11 @@
+{
+ "fw_id": "supermini_esp32c3",
+ "version": "1.13.1",
+ "size": 1666768,
+ "sha256": "be280b0b3c950b6ff7e382f583042ada6f3867c02444632b639fe0718dc3a060",
+ "sig": "3046022100db466cd6c5e0e4ff14c408b223d3426b096c7ddf87b709d420f8e3288e060ee1022100c3e6de353d40e05b25219312a02104dfad6724549c28b05ced19001c22bc449c",
+ "url": "bin/madoka-supermini_esp32c3-1.13.1.bin",
+ "rollout": 100,
+ "notes": "Simpler automations, smaller firmware, update fallback via GitHub, phone renames keep their links, clock check, fewer notification types, and fixes.",
+ "notes_sig": "3045022100ee980fbe421b26283db341f533251d6d1a407a6326910301be788d5e0753792102207af9048ea9c2a0fb3fc38b8636908acaa998ee6fb999f19da17dc59ae4a045fa"
+}
