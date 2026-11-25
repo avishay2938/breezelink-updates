@@ -1,11 +1,11 @@
 {
  "fw_id": "supermini_esp32c3",
- "version": "1.13.2",
- "size": 1667744,
- "sha256": "fd6d3edb47c49c58579d0aac1e3c73dc418eac116c551f2ddbdd2ef3fc503754",
- "sig": "304502205c433ed7af306095e99fb34e04809d4a8c93a153d0b48fd17ee428fe37cdf5eb022100de17f7ef67096c22d3173b5a48bd98615eb6cb6fdca4a451e65924354e5d7e7b",
- "url": "bin/madoka-supermini_esp32c3-1.13.2.bin",
+ "version": "1.13.3",
+ "size": 1668752,
+ "sha256": "1ffab1466aef6bf26e54d06fcc4642d3393bbded525f480b01a423433d449fbf",
+ "sig": "3045022100cc5cf6ef2635d3f70d8a935e95037c6ac5a20396d68853e1b6dd5a110ea36821022044657bfe4361c42b6fe00b8d991b1f6b49bfa5512f3c22f8d9ba949ec2e271d2",
+ "url": "bin/madoka-supermini_esp32c3-1.13.3.bin",
  "rollout": 100,
- "notes": "iPhone notifications work again, a fix for a rare false restart by the watchdog, and release tool fixes.",
- "notes_sig": "3045022100aa3bd775da73508c05e041798d5ae19c02925270b49d829cf8398d8b0034c89b022042e269bb373be49545aefaf50ad35ad08375af13ac4bce6a17aa41f0f9a5c357"
+ "notes": "Currency list for electricity cost, the tab bar no longer jumps while typing, and the app opens with the last values instead of Connecting.",
+ "notes_sig": "3045022100eac2ee2defc01ac6f7e87b6299659851d06f56758726b7404852cbee98515c090220282c89e75fae62513617c8b603ea1dec68ae0b947f2ecaf6b320d215f5bec1b4"
 }
