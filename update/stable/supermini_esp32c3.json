@@ -1,11 +1,11 @@
 {
  "fw_id": "supermini_esp32c3",
- "version": "1.13.3",
- "size": 1668752,
- "sha256": "1ffab1466aef6bf26e54d06fcc4642d3393bbded525f480b01a423433d449fbf",
- "sig": "3045022100cc5cf6ef2635d3f70d8a935e95037c6ac5a20396d68853e1b6dd5a110ea36821022044657bfe4361c42b6fe00b8d991b1f6b49bfa5512f3c22f8d9ba949ec2e271d2",
- "url": "bin/madoka-supermini_esp32c3-1.13.3.bin",
+ "version": "1.14.0",
+ "size": 1669920,
+ "sha256": "122539c3682fd23e7eeeee5d290de575410c762c7d29b355d58f00a507af4ebf",
+ "sig": "304402204a48016b839cddd2209494f661eef71d09ef95b03e228c9e1646b685891dead8022000bd575f54a89dce8925bcc9fcce1ca0c6b8e6f2606de9b81de77074ef5559a3",
+ "url": "bin/madoka-supermini_esp32c3-1.14.0.bin",
  "rollout": 100,
- "notes": "Currency list for electricity cost, the tab bar no longer jumps while typing, and the app opens with the last values instead of Connecting.",
- "notes_sig": "3045022100eac2ee2defc01ac6f7e87b6299659851d06f56758726b7404852cbee98515c090220282c89e75fae62513617c8b603ea1dec68ae0b947f2ecaf6b320d215f5bec1b4"
+ "notes": "New name: CoolfinchAC. The app moves to coolfinchac.pages.dev.",
+ "notes_sig": "30450221009c9303b1a62a3feebb41f982980760b97ecae2055ddaf69643ec6fee238c7b260220057597b401d3ea40c23890933383aba61836ebd46daff59c9c2429e2d0b173e3"
 }

@@ -1,11 +1,11 @@
 {
  "fw_id": "xiao_esp32c3",
- "version": "1.13.3",
- "size": 1658880,
- "sha256": "432ed736441b562c05314a8af1527eb51efb066b646d163080f69e983bca19d0",
- "sig": "3044022071985345f5dc536e601c46d4b72bf200373648872940fe8aa76fdc63db5b850c02206cefb2b2ad2baaa8952c5ce934dd17f217e2c2a32d16b85373a791b4e45af991",
- "url": "bin/madoka-xiao_esp32c3-1.13.3.bin",
+ "version": "1.14.0",
+ "size": 1660016,
+ "sha256": "31b6ec5ebe420f6bd099752f29aa43f4eedad29dd754b3b5f5b43b547a0b5267",
+ "sig": "30460221008a789c0f780d22d4cac63afbde6820baa96042aff20a8f1b5f2efa783a255a94022100e04e9269cb9228ff4e559c1e692d1397a0e7c423fe7c805ac01fda66b77719d3",
+ "url": "bin/madoka-xiao_esp32c3-1.14.0.bin",
  "rollout": 100,
- "notes": "Currency list for electricity cost, the tab bar no longer jumps while typing, and the app opens with the last values instead of Connecting.",
- "notes_sig": "3046022100a113c765bfa867822fdfc9f1797b6a291b3009d95141fbffc2004dceed83681b02210099458230d97d97c43179074efedcf4fee5ebffd99a3667c8dea9d457ef07fd25"
+ "notes": "New name: CoolfinchAC. The app moves to coolfinchac.pages.dev.",
+ "notes_sig": "30460221008500c835cda4bd0d0713650dce23a16872a7e1505939c8a05de5004d9e4b69a80221009b6cfce67f455357292a9e276b4f68a0f2b9882744bda1b7f266fafe5aa68aaa"
 }
